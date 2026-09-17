@@ -13,8 +13,13 @@
 
 <p align="center">
   <a href="https://github.com/AshikurRahman848"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/ashikur-rahman-848/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/ashikur-rahman-9968b41a8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://ashikur-rahman-bitto-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:ashikurbitto@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" alt="Gmail" /></a>
+</p>
+
+<p align="center">
+  <a href="tel:+8801737242267"><img src="https://img.shields.io/badge/Phone-%2B880%201737%20242%202267-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="phone" /></a>
 </p>
 
 <p align="center">
@@ -67,6 +72,14 @@ I’m especially interested in:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshikurRahman848&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </p>
 
+## Portfolio & Contact
+
+<p align="center">
+  <a href="https://ashikur-rahman-bitto-portfolio.vercel.app/">🌐 Portfolio</a> •
+  <a href="mailto:ashikurbitto@gmail.com">✉️ Email</a> •
+  <a href="tel:+8801737242267">📞 +880 1737 242267</a>
+</p>
+
 ## Featured Repositories
 
 <p align="center">
@@ -81,10 +94,13 @@ I’m especially interested in:
   <a href="https://github.com/AshikurRahman848" title="GitHub">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/ashikur-rahman-848/" title="LinkedIn" target="_blank">
+  <a href="https://linkedin.com/in/ashikur-rahman-9968b41a8" title="LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your_email@example.com" title="Email">
+  <a href="https://ashikur-rahman-bitto-portfolio.vercel.app/" title="Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:ashikurbitto@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>

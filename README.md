@@ -1,112 +1,101 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="wave" />
-  Hi, I'm Ashikur Rahman
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="wave" />
-</h1>
+<h1 align="center">Hi, I'm Ashikur Rahman</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AshikurRahman848&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/AshikurRahman848?label=Followers&style=flat-square&color=0e75b6" alt="followers" />
-  <img src="https://img.shields.io/badge/Location-Bangladesh-0e75b6?style=flat-square&logo=googlemaps" alt="location" />
-  <img src="https://img.shields.io/badge/Open%20to-Work%20Opportunities-32CD32?style=flat-square" alt="open to work" />
+  <strong>Flutter Developer · Android &amp; iOS · Production Mobile Apps</strong><br>
+  Building mobile products from the first screen to the store release.
 </p>
 
 <p align="center">
-  <a href="https://github.com/AshikurRahman848"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/ashikur-rahman-9968b41a8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://ashikur-rahman-bitto-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:ashikurbitto@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" alt="Gmail" /></a>
+  <a href="https://ashikur-rahman-bitto-portfolio.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/ashikur-rahman-9968b41a8">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:ashikurbitto@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://github.com/AshikurRahman848?tab=repositories">Repositories</a>
 </p>
 
 <p align="center">
-  <a href="tel:+8801737242267"><img src="https://img.shields.io/badge/Phone-%2B880%201737%20242%202267-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="phone" /></a>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&amp;logo=flutter&amp;logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&amp;logo=dart&amp;logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&amp;logo=firebase&amp;logoColor=white" alt="Firebase">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&amp;logo=android&amp;logoColor=black" alt="Android">
+  <img src="https://img.shields.io/badge/iOS-222222?style=flat-square&amp;logo=apple&amp;logoColor=white" alt="iOS">
 </p>
+
+---
+
+## About me
+
+I'm a mobile developer based in **Dhaka, Bangladesh**, with **3+ years of professional software development experience**. I work primarily with Flutter and Dart, building Android and iOS applications with API integrations, local storage and maintainable state management.
+
+At **Chardike Limited**, I contribute to a live commerce app, including feature development, API performance improvements and crash reduction guided by Google Play Console reports. Previously, I worked at **Automation Services Ltd** on mobile applications and Java ERP maintenance.
+
+I enjoy taking ownership of the full mobile development process: implementing features, testing behavior, investigating production issues and shipping store releases.
+
+## Selected work
+
+### Chardike · Commerce app
+
+**Professional contribution · Flutter · Android & iOS**
+
+Contribute to production app development, API performance optimization and crash reduction. My work supports an existing product and team.
+
+[Google Play](https://play.google.com/store/apps/details?id=com.chardike.app) · [App Store](https://apps.apple.com/us/app/chardike/id6472295244)
+
+### SR App / SR Cart · Sales operations
+
+**Built from scratch through Android & iOS releases · Flutter · GetX · REST APIs · SQLite**
+
+Built workflows for orders, shops, deposits and collections, with API integration and local persistence. Took the application from initial implementation through publication on both stores.
+
+[Google Play](https://play.google.com/store/apps/details?id=com.tbssr.app) · [App Store](https://apps.apple.com/us/app/sr-cart/id6760639676)
+
+### Body Clock · Offline lifestyle tracker
+
+**Personal project · Flutter · BLoC · SQLite · Clean architecture**
+
+Built an offline habit and lifestyle tracker with a custom clock interface, activity heatmaps and streak tracking.
+
+[Google Play](https://play.google.com/store/apps/details?id=com.bittostudio.bodyclock)
+
+### HealthMate · Family health organizer
+
+**In development · Flutter · Riverpod · Isar · Hive · go_router**
+
+Building an offline app for organizing family health profiles, with a focus on local data storage, navigation and automated tests.
+
+### My Bitcoin Canvas
+
+**Team contribution · Flutter · Provider · API integration**
+
+Contributed to a mobile application using Provider and API integrations with a Java backend.
+
+[App Store](https://apps.apple.com/ca/app/my-bitcoin-canvas/id6740707716)
+
+## Tools I work with
+
+| Area | Technologies |
+| --- | --- |
+| Mobile development | Flutter, Dart, Android & iOS releases |
+| State management | BLoC, Riverpod, GetX, Provider |
+| APIs & services | REST APIs, Firebase, Firebase Cloud Messaging |
+| Local data | SQLite, Hive, Isar, SQL |
+| Quality & delivery | Automated tests, Git, GitHub Actions, Fastlane, Google Play Console |
+| Additional languages | Java, Kotlin, Python |
+
+## Experience
+
+| Role | Company | Period |
+| --- | --- | --- |
+| Mobile App Developer | Chardike Limited | Mar 2025 – Present |
+| Software Engineer | Automation Services Ltd | Aug 2023 – Feb 2025 |
+
+**Education:** B.Sc. in Computer Science & Engineering, Independent University, Bangladesh · 2018–2022
+
+## Let's build something useful
+
+I'm open to **remote Flutter and mobile development opportunities**, including full-time and contract roles. Based in **Dhaka (UTC+6)**.
+
+For project discussions or opportunities, reach me at **[ashikurbitto@gmail.com](mailto:ashikurbitto@gmail.com)** or connect on **[LinkedIn](https://linkedin.com/in/ashikur-rahman-9968b41a8)**.
 
 <p align="center">
-  <img src="https://github.com/AshikurRahman848/AshikurRahman848/blob/main/images/me.gif?raw=true" width="70" alt="profile gif" />
-</p>
-
-## About Me
-
-I’m a software developer who enjoys building practical, reliable, and user-friendly digital products. I like solving real-world problems, learning new technologies, and turning ideas into working solutions.
-
-I’m especially interested in:
-
-- Full-stack web development
-- Application architecture and clean design
-- Writing maintainable and efficient code
-- Learning modern tools and engineering workflows
-- Building products that are useful and scalable
-
-## Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-</p>
-
-## Current Focus
-
-- Building clean, practical software solutions
-- Improving problem-solving and architecture skills
-- Exploring modern development workflows
-- Learning and applying better engineering practices every day
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshikurRahman848&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshikurRahman848&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshikurRahman848&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</p>
-
-## Portfolio & Contact
-
-<p align="center">
-  <a href="https://ashikur-rahman-bitto-portfolio.vercel.app/">🌐 Portfolio</a> •
-  <a href="mailto:ashikurbitto@gmail.com">✉️ Email</a> •
-  <a href="tel:+8801737242267">📞 +880 1737 242267</a>
-</p>
-
-## Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/AshikurRahman848?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-Explore-0e75b6?style=for-the-badge" alt="view all repositories" />
-  </a>
-</p>
-
-## Let’s Connect
-
-<p align="center">
-  <a href="https://github.com/AshikurRahman848" title="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/ashikur-rahman-9968b41a8" title="LinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://ashikur-rahman-bitto-portfolio.vercel.app/" title="Portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:ashikurbitto@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
-<hr>
-
-<p align="center">
-  <i>Building ideas into useful products and learning every day.</i>
+  <sub>Selected work includes personal projects and contributions to employer products. Store links show the published applications; source code may not be public.</sub>
 </p>

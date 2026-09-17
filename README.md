@@ -31,9 +31,9 @@
 
 ## About Me
 
-I'm a mobile developer based in Dhaka, Bangladesh, with 3+ years of professional software development experience. I work primarily with Flutter and Dart, building Android and iOS applications with API integrations, local storage, and maintainable state management.
+I'm a mobile developer based in Dhaka, Bangladesh, with 3+ years of professional software development experience. I work primarily with Flutter and Dart, building Android and iOS applications with REST APIs, local storage, state management, and automated testing.
 
-At Chardike Limited, I contribute to a live commerce app, including feature development, API performance improvements, and crash reduction guided by Google Play Console reports. Previously, I worked at Automation Services Ltd on mobile applications and Java ERP maintenance.
+At Chardike Limited, I contribute to a live commerce app through feature development, API performance improvements, and crash reduction guided by Google Play Console reports. Previously, I worked as a Software Engineer at Automation Services Ltd., where I strengthened my experience in software development and problem-solving.
 
 I enjoy taking ownership of the full mobile development process: implementing features, testing behavior, investigating production issues, and shipping app releases.
 

@@ -31,9 +31,9 @@
 
 ## About Me
 
-I'm a mobile developer based in Dhaka, Bangladesh, with 3+ years of professional software development experience. I work primarily with Flutter and Dart, building Android and iOS applications with REST APIs, local storage, state management, and automated testing.
+I'm a mobile developer based in Dhaka, Bangladesh, with 3+ years of professional software development experience. I work primarily with Flutter and Dart, building Android and iOS applications with a strong focus on real-world product delivery, user experience, and release quality.
 
-At Chardike Limited, I contribute to a live commerce app through feature development, API performance improvements, and crash reduction guided by Google Play Console reports. Previously, I worked as a Software Engineer at Automation Services Ltd., where I strengthened my experience in software development and problem-solving.
+At Chardike Limited, I contribute to a live commerce app through feature development, API performance improvements, and crash reduction guided by Google Play Console reports. Previously, I worked on sales operations apps and other business-focused mobile products, where I handled product development from implementation to store release.
 
 I enjoy taking ownership of the full mobile development process: implementing features, testing behavior, investigating production issues, and shipping app releases.
 
@@ -64,13 +64,6 @@ Built an offline habit and lifestyle tracker with a custom clock interface, acti
 In development · Flutter · Riverpod · Isar · Hive · go_router
 
 Building an offline app for organizing family health profiles with a focus on local data storage, navigation, and automated testing.
-
-### My Bitcoin Canvas
-Team contribution · Flutter · Provider · API integration
-
-Contributed to a mobile application using Provider and API integrations with a Java backend.
-
-[App Store](https://apps.apple.com/ca/app/my-bitcoin-canvas/id6740707716)
 
 ## Tools I Work With
 
